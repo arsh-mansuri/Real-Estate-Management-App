@@ -99,7 +99,7 @@ The `.env` file is included in this repository with **empty placeholder values**
 
 ## 🙋‍♂️ Built by
 
-**Arsh** — Class 12th graduate (will be doing b-tech CS(AI/ML), building in public.
+**Arsh** — Class 12th graduate [will be doing b-tech CS(AI/ML)], building in public.
 
 Connect with me:
 - 🔗 [LinkedIn](www.linkedin.com/in/arsh-mansuri-718621339)
